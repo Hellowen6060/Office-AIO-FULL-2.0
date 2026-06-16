@@ -43,7 +43,7 @@ Incluye además integración con **Microsoft Activation Scripts (MAS)** para act
 
 ## 📥 Instalación
 
-1. Descarga el archivo `Office_AIO_2.0.exe` desde la sección [Releases](https://github.com/Hellowen6060/OfficeInstaller/releases)
+1. Descarga el archivo `Office_AIO_2.0.exe` desde la sección [Releases](https://github.com/Hellowen6060/Office-AIO-FULL-2.0/releases/tag/2.0)
 2. Haz doble clic en el archivo
 3. Si Windows SmartScreen muestra una advertencia:
    - Haz clic en **"Más información"**
