@@ -28,7 +28,6 @@ Incluye además integración con **Microsoft Activation Scripts (MAS)** para act
 - 🔄 **Todas las versiones** de Office disponibles
 - 📊 **Project y Visio** incluidos en cada versión
 - 🔐 **MAS integrado** para activación
--  **Redes sociales** del desarrollador
 - 📝 **Descripciones dinámicas** al pasar el mouse
 - 🧹 **Limpieza automática** de archivos temporales
 
@@ -89,16 +88,6 @@ Incluye además integración con **Microsoft Activation Scripts (MAS)** para act
 ## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Si encuentras un bug o tienes una sugerencia, abre un [Issue](https://github.com/Hellowen6060/OfficeInstaller/issues) o un [Pull Request](https://github.com/Hellowen6060/OfficeInstaller/pulls).
-
----
-
-## 📬 Contacto
-
--  **YouTube:** [@Diegonorutas](https://www.youtube.com/@Diegonorutas)
-- 💻 **GitHub:** [@Hellowen6060](https://github.com/Hellowen6060)
-- 🎵 **TikTok:** [@diegogarciaramos6](https://www.tiktok.com/@diegogarciaramos6)
-- 📘 **Facebook:** [Dark66601](https://www.facebook.com/Dark66601/)
-- 💬 **WhatsApp:** [+57 313 442 3847](https://api.whatsapp.com/send?phone=573134423847)
 
 ---
 
