@@ -87,7 +87,7 @@ Incluye además integración con **Microsoft Activation Scripts (MAS)** para act
 
 ## 🤝 Contribuciones
 
-Las contribuciones son bienvenidas. Si encuentras un bug o tienes una sugerencia, abre un [Issue](https://github.com/Hellowen6060/OfficeInstaller/issues) o un [Pull Request](https://github.com/Hellowen6060/OfficeInstaller/pulls).
+Las contribuciones son bienvenidas. Si encuentras un bug o tienes una sugerencia, abre un [Issue](https://github.com/Hellowen6060/Office-AIO-FULL-2.0/issues) o un [Pull Request](https://github.com/Hellowen6060/Office-AIO-FULL-2.0/pulls).
 
 ---
 
